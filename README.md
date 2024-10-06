@@ -1,6 +1,3 @@
-Here’s the revised `README.md` file that includes your latest changes:
-
-```markdown
 # Caesar Cipher Project
 
 This project includes two implementations of the Caesar Cipher:
@@ -29,13 +26,7 @@ Caesar Cipher is a simple encryption technique where each letter in the input te
 Type 'encode' to encrypt or 'decode' to decrypt: encode
 Enter your message: hello
 Enter the shift amount: 3
-```
 
-The output will be:
-
-```
-Khoor
-```
 
 ### Requirements
 This project does not require any external libraries. Just run it using Python.
