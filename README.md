@@ -1,6 +1,3 @@
-Here is a simple `README.md` file for your project:
-
-```md
 # Caesar Cipher Project
 
 This project includes two implementations of the Caesar Cipher:
@@ -12,7 +9,7 @@ This project includes two implementations of the Caesar Cipher:
 
 Caesar Cipher is a simple encryption technique where each letter in the input text is shifted by a certain number of positions in the alphabet. 
 
-### Features:
+### Features
 - Supports both encryption and decryption.
 - Retains non-alphabetical characters (e.g., spaces, punctuation) as they are.
 - User can specify the shift amount.
@@ -29,12 +26,7 @@ Caesar Cipher is a simple encryption technique where each letter in the input te
 Type 'encode' to encrypt or 'decode' to decrypt: encode
 Enter your message: hello
 Enter the shift amount: 3
-```
 
-Output:
-```
-The encoded text is: khoor
-```
 
 ### Requirements
 This project does not require any external libraries. Just run it using Python.
@@ -44,9 +36,5 @@ This project does not require any external libraries. Just run it using Python.
 - `normal_caesar.py`: Contains the normal version of the Caesar cipher.
 - `optimized_caesar.py`: Contains the optimized version.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-```
 
 This `README.md` gives a brief explanation of your project in easy-to-understand terms. Let me know if you need any modifications!
