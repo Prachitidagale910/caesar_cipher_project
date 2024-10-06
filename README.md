@@ -1,3 +1,6 @@
+Here’s the revised `README.md` file that includes your latest changes:
+
+```markdown
 # Caesar Cipher Project
 
 This project includes two implementations of the Caesar Cipher:
@@ -26,7 +29,13 @@ Caesar Cipher is a simple encryption technique where each letter in the input te
 Type 'encode' to encrypt or 'decode' to decrypt: encode
 Enter your message: hello
 Enter the shift amount: 3
+```
 
+The output will be:
+
+```
+Khoor
+```
 
 ### Requirements
 This project does not require any external libraries. Just run it using Python.
@@ -36,5 +45,29 @@ This project does not require any external libraries. Just run it using Python.
 - `normal_caesar.py`: Contains the normal version of the Caesar cipher.
 - `optimized_caesar.py`: Contains the optimized version.
 
+## How to Run
+
+1. Clone or download this repository to your local machine.
+2. Navigate to the directory where the scripts are saved.
+3. Run the desired script in your terminal or command prompt:
+
+```bash
+python normal_caesar.py
+```
+or
+```bash
+python optimized_caesar.py
+```
+
+4. Follow the on-screen instructions to use the cipher.
+
+## License
+
+This project is free to use and modify for any purpose.
+
+## Author
+
+This Caesar Cipher project was implemented by me. Feel free to improve upon it and share your own version!
+```
 
 This `README.md` gives a brief explanation of your project in easy-to-understand terms. Let me know if you need any modifications!
